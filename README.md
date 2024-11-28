@@ -1,7 +1,8 @@
 # Reservation_System
 A reservation system for gaming hub. The system is made using MERN Stack. 
 
-*Project Overview*
+*Project Overview:*
+
 The Reservation System for Gaming Hub is a modern web application designed to streamline and optimize the process of reserving gaming slots for single-player and multiplayer sessions. It provides a user-friendly interface for gamers and administrators, ensuring smooth scheduling and management of reservations while accommodating varying pricing based on time slots.
 
 *Key Features*
