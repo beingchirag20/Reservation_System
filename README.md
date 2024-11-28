@@ -30,6 +30,7 @@ The Reservation System for Gaming Hub is a modern web application designed to st
     Built with Node.js and MongoDB, ensuring scalability for managing high volumes of reservations and concurrent users.
 
 *Technical Highlights*
+
 Frontend
     React.js: Modern, dynamic, and responsive user interface.
     Tailwind CSS: Clean, maintainable, and mobile-first design.
